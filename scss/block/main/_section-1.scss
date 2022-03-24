@@ -1,0 +1,71 @@
+.section-1{
+    background-image: url(../../../img/bacround-2.png);
+    background-position:top left ;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    
+    box-sizing: border-box;
+    background-color:  rgba(27, 38, 47, 1);
+    width: 1400px;
+    height: 472px;
+    margin-top: 50px;
+   
+}
+.section-1__words{
+    width: 445px;
+    height: 192px;
+    padding-bottom: 125px;
+   
+  
+}
+.section-1__arcticle{
+    color: #FBFCFE;
+    font-size: 48px;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+}
+.word-3{
+    
+    color: #FBFCFE;
+    font-size: 15px;
+    opacity: 0.7;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    
+}
+.section-1__button{
+    margin-top: 40px;
+    background: rgba(27, 38, 47, 1);
+    border: 1px solid #FBFCFE;
+    box-sizing: border-box;
+    border-radius: 24px;
+    width: 129px;
+    height: 48px;
+    color: #FBFCFE;
+  
+}
+.section-1__button:active{
+    background: #FFFFFF;
+    border: 1px solid #FBFCFE;
+    box-sizing: border-box;
+    border-radius: 24px;
+    color: #1B262F;
+
+}
+.img__logo{
+    padding-top: 50px;
+    width: 536px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    list-style-type: none;
+    margin: 20px;
+}
